@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="25" started-at="2019-06-15T12:09:53Z" finished-at="2019-06-15T12:09:53Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="25" started-at="2019-06-15T12:09:53Z" finished-at="2019-06-15T12:09:53Z">
+      <class name="SeleniumProject.Practice.AppTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:SeleniumProject.Practice.AppTest@783e6358]" name="beforeTest" is-config="true" duration-ms="12" started-at="2019-06-15T17:39:53Z" finished-at="2019-06-15T17:39:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:SeleniumProject.Practice.NewTest@17550481]" name="beforeTest" is-config="true" duration-ms="0" started-at="2019-06-15T17:39:53Z" finished-at="2019-06-15T17:39:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testEasy()[pri:0, instance:SeleniumProject.Practice.AppTest@783e6358]" name="testEasy" duration-ms="1" started-at="2019-06-15T17:39:53Z" finished-at="2019-06-15T17:39:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:SeleniumProject.Practice.AppTest@783e6358]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-06-15T17:39:53Z" finished-at="2019-06-15T17:39:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:SeleniumProject.Practice.NewTest@17550481]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-06-15T17:39:53Z" finished-at="2019-06-15T17:39:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- SeleniumProject.Practice.AppTest -->
+      <class name="SeleniumProject.Practice.NewTest">
+        <test-method status="PASS" signature="testEasy()[pri:0, instance:SeleniumProject.Practice.NewTest@17550481]" name="testEasy" duration-ms="0" started-at="2019-06-15T17:39:53Z" finished-at="2019-06-15T17:39:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+      </class> <!-- SeleniumProject.Practice.NewTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
